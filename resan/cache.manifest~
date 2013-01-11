@@ -1,0 +1,35 @@
+CACHE MANIFEST
+#Cache Manifest Resan
+#Manifest Version 1.0.1
+
+CACHE:
+index.html
+anzug.png
+atlantica.png
+brille.png
+cocktail.png
+computer.png
+dame.png
+dogs.png
+hemma.png
+komunikator.png
+natten.png
+planet.png
+titel.png
+trooper.png
+thumb1.jpg
+thumb2.jpg
+thumb3.jpg
+thumb4.jpg
+thumb5.jpg
+thumb6.jpg
+thumb7.jpg
+thumb8.jpg
+
+http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css
+http://code.jquery.com/jquery-1.6.4.min.js
+http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js
+
+http://code.jquery.com/mobile/latest/jquery.mobile.min.css rel="stylesheet" type="text/css" 
+http://code.jquery.com/jquery-1.6.4.min.js
+http://code.jquery.com/mobile/latest/jquery.mobile.min.js
